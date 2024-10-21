@@ -1,0 +1,68 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #170550;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.navbar-logo{
+    width: 150px;
+    height: 55px;
+}
+.manu{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+.manu>li{
+    cursor: pointer;
+    color: white;
+}
+.btn{
+    background-color: white;
+    padding: 10px 42px;
+    color: #170550;
+    border: none;
+    border-radius: 20px;
+}
+
+/* Bannar part */
+/* Bannar part */
+ 
+.bannar{
+display: flex;
+padding-left: 150px;
+padding-right: 150px;
+align-items: center;
+background-color: #31065A;
+}
+.bannar-img{
+    width: 577px;
+    height: 683px;
+}
+.title{
+    color: #F86F03;
+    padding-bottom: 10px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.developer-name{
+    color: white;
+    padding-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.more-title{
+    color: white;
+    font-size: 17px;
+    padding-bottom: 10px;
+}
+.description{
+    color: white;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
