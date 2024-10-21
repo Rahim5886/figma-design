@@ -66,3 +66,59 @@ background-color: #31065A;
     font-size: 13px;
     font-family: Arial, Helvetica, sans-serif;
 }
+.social-media{
+    margin-top: 36px;
+    margin-bottom: 32px;
+     
+}
+.social-media>img{
+    margin-right: 24px;
+    border: 1px solid white;
+    padding: 5px;
+    border-radius: 100%;
+}
+.btn-cv{
+    background-color: #F86F03;
+    padding: 10px 45px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+}
+/* webside main ::part */
+.about-title{
+    text-align: center;
+
+}
+#about-section{
+background-color: #170550;
+padding-top: 65px;
+padding-bottom: 160px;
+padding-left: 150px;
+padding-right: 150px;
+}
+.information{
+    display: flex;
+    align-items: center;
+    gap: 123px;
+    margin-top: 105px;
+
+}
+.info-content{
+    color: white;
+}
+.info-title{
+     margin-bottom: 40px;
+     font-family: Arial, Helvetica, sans-serif;
+}
+.para{
+margin-bottom: 32px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.read-more{
+    background-color: white;
+    color: #170550;
+    padding: 9px 37px;
+    margin-top: 67px;
+    border: none;
+    border-radius: 20px;
+}
